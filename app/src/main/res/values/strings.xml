@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="player1_turn">Player 1\'s Turn</string>
+    <string name="player2_turn">Player 2\'s Turn</string>
+    <string name="roll_Dice">Roll Dice</string>
+    <string name="pre_Question">Question will be displayed here</string>
+    <string name="pre_jackpotQuestion">Jackpot will be displayed here!!</string>
+    <string name="string_button_text">Enter a number</string>
+    <string name="jackpot_text">Jackpot</string>
+    <string name="player1_default_score">Player 1: 0</string>
+    <string name="player2_default_score">Player 2: 0</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="wrong_answer_message">Wrong answer! The jackpot amount was %1$d points. Jackpot reset to 5 points.</string>
+    <string name="winner_default_text">Winner is: </string>
+</resources>
